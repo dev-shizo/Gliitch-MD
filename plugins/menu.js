@@ -17,9 +17,9 @@ before: `*┍┈┈┈••✦BOT INFO✦••┈┈┈•♡*
 *┴*
  *┃* 🐣 *Name:* ${global.botname}
  *┃* 🧮 *Runtime:* %muptime
-* ┃* 👩‍💻  *Host:* Termux
-* ┃* 🍃 MODE:* Public
- *┃*Hey :* %name
+ *┃* 👩‍💻  *Host:* Termux
+ *┃* 🍃 MODE:* Public
+ *┃*Hey :*  *%name*
  *┃* How are you 🫣❤️
  *┗─────────────────✧₊∘*
 %readmore`.trimStart(),
