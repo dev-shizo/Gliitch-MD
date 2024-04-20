@@ -18,9 +18,9 @@ before: `*┍┈┈┈••✦BOT INFO✦••┈┈┈•♡*
  *┃* 🐣 *Name:* ${global.botname}
  *┃* 🧮 *Runtime:* %muptime
  *┃* 👩‍💻  *Host:* Termux
- *┃* 🍃 MODE:* Public
- *┃*Hey :*  *%name*
- *┃* How are you 🫣❤️
+ *┃* *🍃 MODE:* Public
+ *┃* *Hey :*  *%name*
+ *┃* *How are you today ?*😗💗
  *┗─────────────────✧₊∘*
 %readmore`.trimStart(),
   header: '┏━━━✧ *%category* ✧━━━━━━◆ ',
